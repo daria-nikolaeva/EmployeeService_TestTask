@@ -1,8 +1,10 @@
 # EmployeeService_TestTask
 -----------------------------
 
-WinForms + Entity Framework. CRUD operations with employees
-Test task. Version 1.0
+WinForms + Entity Framework. CRUD operations with employees.
+
+Test task.
+Version 1.0
 ## Installation
 -------------
 1. Unzip file.
